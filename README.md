@@ -1,0 +1,2 @@
+# Hospital-Application
+This project’s aim in general is allowing patients to take appointments in an easy manner. While doing that helps patients to learn about the doctors in the hospital and give them an opportunity to see their own BMI and minimal calorie requirement. As an assignment we had to take atleast 5 different type of inputs and give atleast different type of 3 outputs and use necessary concepts such as polymorphism, overload etc.
